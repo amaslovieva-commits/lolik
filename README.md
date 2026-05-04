@@ -13,6 +13,6 @@ markdown
 ---
 ## Как запустить
 ```bash
-git clone https://github.com/твой-логин/weather-diary.git
-cd weather-diary
+git clone https://github.com/amaslovieva-commits/lolik.git
+cd lolik
 python main.py
